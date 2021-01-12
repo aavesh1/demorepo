@@ -14,6 +14,9 @@ In the present study, I have made use of a deep learning algorithm using the con
 
 For the training and development of AI-based classification models, COVID-19, non-COVID-19 and normal chest X-ray images were downloaded from publically available sources.
 
-It is desirable to have a fast, cost-effective, user-friendly, noninvasive, and intelligent diagnostic method for rapid screening and early diagnosis of diseases, which also requires the least manual intervention. Timely diagnosis of the COVID-19 patients can enable help in the optimization of available resources, including trained human resources, for all the supportive measures required for confirmed patients. 
+# WHY DO WE NEED AN Artificial Intelligence-Based Classification of Chest X-Ray Images ?
+
+In Pandemic times when our medical personnel are under a lot of stress ,  it is desirable to have a fast, cost-effective, user-friendly, noninvasive, and intelligent diagnostic method for rapid screening and early diagnosis of diseases, which also requires the least manual intervention. 
+Timely diagnosis of the COVID-19 patients can enable help in the optimization of available resources, including trained human resources, for all the supportive measures required for confirmed patients. 
 
 Automated AI-based intelligent chest X-ray classification has such untapped potential for this unmet need, if we give it a thought.
