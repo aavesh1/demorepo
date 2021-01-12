@@ -1,10 +1,12 @@
 A repo created to demo an ongoing ML project , I am working on.
+![CoronaVirus](https://www.fda.gov/files/covid19-1600x900.jpg)
+
 
 Artificial Intelligence-Based Classification of Chest X-Ray Images into COVID-19 and Other Infectious Diseases
 As we know the ongoing pandemic of coronavirus disease(COVID-19) has led to global health and healthcare crisis,
 One of the significant challenges in this crisis is to identify and monitor the COVID-19 patients quickly and efficiently to facilitate timely decisions for their treatment, monitoring, and management. 
 
-https://www.fda.gov/files/covid19-1600x900.jpg
+
 
 This project is focused on developing less time-consuming methods to make identification of patients faster and efficient by creating efficient deep learning models, trained with chest X-ray images, for rapid screening of COVID-19 patients by using publicly available , labeled chest X-ray images of adult COVID-19 patients.
 
