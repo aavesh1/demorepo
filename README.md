@@ -11,7 +11,7 @@ One of the significant challenges in this crisis is to identify and monitor the 
 
 
 # FOCUS
-This project is focused on developing less time-consuming methods to make identification of patients faster and efficient by creating improved deep learning models, trained with chest X-ray images, for rapid screening of COVID-19 patients by using publicly available "labeled chest X-ray images" of adult COVID-19 patients.
+This project is focused on developing less time-consuming methods to make identification of patients faster and efficient by using improved deep learning models, trained with chest X-ray images, for rapid screening of COVID-19 patients by using publicly available "labeled chest X-ray images" of adult COVID-19 patients.
 
 In the present study, I have made use of a deep learning algorithm using the convolutional neural network (CNN) that can efficiently detect COVID-19 from chest X-ray images for swift diagnosis.
 
