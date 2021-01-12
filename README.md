@@ -1,7 +1,7 @@
 A repo created to demo an ongoing ML project , I am working on.
 ![CoronaVirus](https://www.fda.gov/files/covid19-1600x900.jpg)
 
-#Introduction
+# Introduction
 
 Artificial Intelligence-Based Classification of Chest X-Ray Images into COVID-19 and Other Infectious Diseases
 As we know the ongoing pandemic of coronavirus disease(COVID-19) has led to global health and healthcare crisis,
