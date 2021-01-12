@@ -7,7 +7,9 @@ A repo created to demo an ongoing ML project , I am working on.
 
 
 As we know the ongoing pandemic of coronavirus disease(COVID-19) has led to global health and healthcare crisis,
-One of the significant challenges in this crisis is to identify and monitor the COVID-19 patients quickly and efficiently to facilitate timely decisions for their treatment, monitoring, and management in this project i am using Artificial Intelligence-Based Classification of Chest X-Ray Images into COVID-19 and Other Infectious Diseases to make the process of identification of patients faster.
+One of the significant challenges in this crisis is to identify and monitor the COVID-19 patients quickly and efficiently to facilitate timely decisions for their treatment, monitoring, and management.
+
+In this project i am using Artificial Intelligence-Based Classification of Chest X-Ray Images into COVID-19 and Other Infectious Diseases to make the process of identification of patients faster.
 
 
 # FOCUS
@@ -26,10 +28,10 @@ For the training and development of AI-based classification models, COVID-19, no
 
 # WHY DO WE NEED An Artificial Intelligence-Based Classification of Chest X-Ray Images ?
 
-In Pandemic times when our medical personnel are under a lot of stress ,  it is desirable to have a fast, cost-effective, user-friendly, noninvasive, and intelligent diagnostic method for rapid screening and early diagnosis of diseases, which also requires the least manual intervention. 
+In these Pandemic times when our medical personnel are under a lot of stress ,  it is desirable to have a fast, cost-effective, user-friendly, noninvasive, and intelligent diagnostic method for rapid screening and early diagnosis of diseases, which also requires the least manual intervention. 
 Timely diagnosis of the COVID-19 patients can enable help in the optimization of available resources, including trained human resources, for all the supportive measures required for confirmed patients. 
 
 Automated AI-based intelligent chest X-ray classification has such untapped potential for this unmet need, if we give it a thought.
 
 # FUTURE SCOPE
-In future, with the availability of more data and interaction with expert doctors in the field and introduction of more diverse cases, the efficiency of the model can be scaled.
+In future, with the availability of more data and interaction with expert doctors in the field and introduction of more diverse cases, the efficiency of the model can be scaled and it can be sued to predict more lung infection related diseases.
